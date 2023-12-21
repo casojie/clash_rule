@@ -1,3 +1,4 @@
-# 内容：Baidu
+# 内容：自定义直连
 # 数量：12条
-DOMAIN-SUFFIX,baidu.com
+DOMAIN-KEYWORD,unionman
+DOMAIN-SUFFIX,casojie.top
