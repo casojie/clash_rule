@@ -1,5 +1,2 @@
-# 内容：强制代理列表
-DOMAIN-SUFFIX,unionman.com.cn
-DOMAIN-SUFFIX,unionman.net
 #bitwarden密码管理箱
 DOMAIN-SUFFIX,bitwarden.com
